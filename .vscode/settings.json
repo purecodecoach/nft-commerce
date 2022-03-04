@@ -1,0 +1,10 @@
+{
+    "cSpell.enableFiletypes": [
+        "solidity"
+    ],
+    "solidity.compileUsingRemoteVersion": "v0.8.0",
+    "solidity.enableLocalNodeCompiler": false,
+    "cSpell.words": [
+        "nomiclabs"
+    ]
+}
